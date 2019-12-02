@@ -126,3 +126,12 @@ D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.Migrations.NewDataFormat.resources
 D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.Migrations.MoviesAndGenre.resources
 D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.Migrations.PopulateGenre.resources
 D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.Migrations.Tesr.resources
+D:\Dev\C#\WebApp\WebApp\bin\AutoMapper.dll
+D:\Dev\C#\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+D:\Dev\C#\WebApp\WebApp\bin\System.Web.Http.dll
+D:\Dev\C#\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+D:\Dev\C#\WebApp\WebApp\bin\AutoMapper.pdb
+D:\Dev\C#\WebApp\WebApp\bin\AutoMapper.xml
+D:\Dev\C#\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+D:\Dev\C#\WebApp\WebApp\bin\System.Web.Http.xml
+D:\Dev\C#\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
