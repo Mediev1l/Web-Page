@@ -112,3 +112,17 @@ D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
 D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
 D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.dll
 D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.pdb
+D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.Migrations.InitialModel.resources
+D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.csproj.GenerateResource.cache
+D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.Migrations.AddSubscription.resources
+D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.Migrations.AddMembershipType.resources
+D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.Migrations.PopulateMembershipTypes.resources
+D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.Migrations.ApplyAnnotationsToCustomersName.resources
+D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.Migrations.AddingMembershipName.resources
+D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.Migrations.SpellingCorrection.resources
+D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.Migrations.PopulateMembershipName.resources
+D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.Migrations.UpdateOfCustomer.resources
+D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.Migrations.NewDataFormat.resources
+D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.Migrations.MoviesAndGenre.resources
+D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.Migrations.PopulateGenre.resources
+D:\Dev\C#\WebApp\WebApp\obj\Debug\WebApp.Migrations.Tesr.resources
